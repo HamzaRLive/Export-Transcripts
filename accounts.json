@@ -1,5 +1,16 @@
 {  "accounts" :
     [
+        {
+            "interactionType": "chat",
+            "accountNo": "10929445",
+            "startDate": "05/05/2019 14:30:30",
+            "endDate": "05/05/2019 14:30:30",
+            "app_key": "935aae8hfksi4828b4cbf17ee882eb4a",
+            "secret": "26e66962u7ff396c",
+            "access_token": "fb33861ski9a4dc5810e0587baa3e341",
+            "access_token_secret": "2d1dh8f1d6527ed2",
+            "contentToRetrieve": []
+        }
         
     ]
 }
